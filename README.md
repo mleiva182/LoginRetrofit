@@ -1,8 +1,8 @@
-### __LOGIN RETROFIT__
+## __LOGIN RETROFIT__
 
-## __ABOUT__
+### __ABOUT__
 
-## App to understand basic functioning of a login using retrofit and coroutines
+### App to understand basic functioning of a login using retrofit and coroutines
 
 ## __FEATURES__
 
